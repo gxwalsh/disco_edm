@@ -25,6 +25,13 @@ This project could not have been possible without those that helped in the origi
 I also need to thank Stack Exchange for an endless source of code solutions for when I was stuck.
 
 
+## Roadmap
+
+- Re-design of interface
+- Ability to add and manipulate images
+- Implementation of interactive layers that enable muting, soloing, and highlighting for design analysis.
+- Better note system for design ideas.
+
 
 ## Further Information
 
